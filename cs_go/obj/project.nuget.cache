@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wnws7tI64kz3JC9HtCGuW3T6MdAFS8UEcAs8olIA7WRvc3WILcosp3R9mW4sqpvPE0PHAxbvaxg9SKA92/mHAQ==",
+  "success": true,
+  "projectFilePath": "/home/user/Рабочий стол/cs_go/cs_go.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

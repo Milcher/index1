@@ -1,0 +1,15 @@
+/home/user/Рабочий стол/cs_go/bin/Debug/net6.0/cs_go
+/home/user/Рабочий стол/cs_go/bin/Debug/net6.0/cs_go.deps.json
+/home/user/Рабочий стол/cs_go/bin/Debug/net6.0/cs_go.runtimeconfig.json
+/home/user/Рабочий стол/cs_go/bin/Debug/net6.0/cs_go.dll
+/home/user/Рабочий стол/cs_go/bin/Debug/net6.0/cs_go.pdb
+/home/user/Рабочий стол/cs_go/obj/Debug/net6.0/cs_go.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/cs_go/obj/Debug/net6.0/cs_go.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/cs_go/obj/Debug/net6.0/cs_go.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/cs_go/obj/Debug/net6.0/cs_go.AssemblyInfo.cs
+/home/user/Рабочий стол/cs_go/obj/Debug/net6.0/cs_go.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/cs_go/obj/Debug/net6.0/cs_go.dll
+/home/user/Рабочий стол/cs_go/obj/Debug/net6.0/refint/cs_go.dll
+/home/user/Рабочий стол/cs_go/obj/Debug/net6.0/cs_go.pdb
+/home/user/Рабочий стол/cs_go/obj/Debug/net6.0/cs_go.genruntimeconfig.cache
+/home/user/Рабочий стол/cs_go/obj/Debug/net6.0/ref/cs_go.dll
